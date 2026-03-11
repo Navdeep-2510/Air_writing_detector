@@ -74,7 +74,7 @@ Numbers
 
 Operators
 
-+ - * /
+/ * - + 
 
 Other Symbols
 =  .  (  )  ^  √
